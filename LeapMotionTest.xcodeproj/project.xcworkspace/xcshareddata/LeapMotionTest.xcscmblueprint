@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "DC8BA86A13E62F15133ED18D36B65224C8240332",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "DC8BA86A13E62F15133ED18D36B65224C8240332" : 0,
+    "ED76853E2B35CA572D965A37CB2B34326D97D520" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "510C6F5D-8B6F-4DA2-8967-938852D9F00C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "DC8BA86A13E62F15133ED18D36B65224C8240332" : "Tanitenespect\/",
+    "ED76853E2B35CA572D965A37CB2B34326D97D520" : "..\/..\/addons\/ofxLeapMotion2"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "LeapMotionTest",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "LeapMotionTest.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Hiroki11x\/Tanitenespect.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DC8BA86A13E62F15133ED18D36B65224C8240332"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:genekogan\/ofxLeapMotion2.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "ED76853E2B35CA572D965A37CB2B34326D97D520"
+    }
+  ]
+}
