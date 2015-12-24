@@ -22,7 +22,12 @@ void ofApp::setup(){
     
     leapMotion.open();
     
-    ofEnableNormalizedTexCoords();
+    /**
+      *球に画像を貼り付ける場合は必要
+      *画像を平面で表示する場合は外さなきゃいけない
+      */
+     
+//    ofEnableNormalizedTexCoords();
 }
 
 //--------------------------------------------------------------
@@ -121,7 +126,9 @@ void ofApp::draw(){
         
 //        if (result)
 //            appleImg.unbind();
-        appleImg.draw(0,0,300,300);
+        
+        //大体中心っぽいい位置に画像表示
+        appleImg.draw(ballPoint.x-ballRadius/2,ballPoint.y-ballRadius/2);
     }
     cam.end();
     
